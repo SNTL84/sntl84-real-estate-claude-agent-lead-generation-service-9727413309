@@ -1,4 +1,5 @@
 # 🏙️ SNTL84 Real Estate Claude Agent
+For lead generation services, see the contact information in this README.
 
 > **AI-Powered Property Valuation & Investment Analysis for Surat, Gujarat** — Claude 4-Layer Architecture | Built by Milan @ SNTL 84
 
@@ -78,3 +79,7 @@ Star ⭐ this repo if it's useful and share with real estate & AI communities!
 ---
 
 *Built with ❤️ by **Milan · SNTL 84** · Surat, India 🇮🇳 · "Automate What's Costing You Money"*
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
